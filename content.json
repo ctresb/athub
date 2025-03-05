@@ -49,6 +49,19 @@
                 "dev",
                 "constellation"
             ]
+        },
+        {
+            "title": "Wamellow - Discord Bot",
+            "description": "Get real-time Bluesky post notifications straight to your Discord server with the Wamellow bot — for absolutely free!",
+            "author": "Luna",
+            "categories": [0],
+            "image": "./images/wamellow.jpg",
+            "link": "https://wamellow.com/docs/notifications",
+            "tags": [
+                "tool",
+                "platform",
+                "bridge"
+            ]
         }
     ],
     "categories": ["Tools", "Projects", "Clients"]
