@@ -1,0 +1,55 @@
+{
+    "projects": [
+        {
+            "title": "PDSls",
+            "description": "Browse the public data on AT Protocol.",
+            "author": "Juliet",
+            "categories": [0],
+            "image": "./images/pdsls.png",
+            "link": "https://pdsls.dev",
+            "tags": [
+                "tool",
+                "dev"
+            ]
+        },
+        {
+            "title": "ATProto Toolkit",
+            "description": "This is a web-based toolkit for viewing and working with ATProto data.",
+            "author": "Natalie",
+            "categories": [0],
+            "image": "./images/atptools.png",
+            "link": "https://atp.tools",
+            "tags": [
+                "tool",
+                "dev"
+            ]
+        },
+        {
+            "title": "cred.blue",
+            "description": "Generate a Bluesky score. Discover your AProto data footprint. Vibe check strangers & new accounts.",
+            "author": "Dame",
+            "categories": [1],
+            "image": "https://cred.blue/cred-blue-banner.jpg",
+            "link": "https://cred.blue/home",
+            "tags": [
+                "platform",
+                "tool",
+                "analytics"
+            ]
+        },
+        {
+            "title": "Constellation",
+            "description": "Constellation is a self-hosted JSON API to an atproto-wide index of PDS record back-links, so you can query social interactions in real time.",
+            "author": "Phil",
+            "categories": [1],
+            "image": "./images/constellation.png",
+            "link": "https://constellation.microcosm.blue",
+            "tags": [
+                "tool",
+                "dev",
+                "constellation"
+            ]
+        }
+    ],
+    "categories": ["Tools", "Projects", "Clients"]
+}
